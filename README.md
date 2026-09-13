@@ -63,7 +63,7 @@ Every decision — whether to research, what tone to use, whether images are nee
 
 | Configuration | Generation | Final Article |
 |---|---|---|
-| ![Configuration panel](assets/screenshots/01 configuration.png) | ![Generate blog](02-generate-blog.png) | ![Generated article](03-generate-article.png) |
+| ![Configuration panel](01-configuration.png) | ![Generate blog](02-generate-blog.png) | ![Generated article](03-generate-article.png) |
 
 ---
 
